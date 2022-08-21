@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CTEConsoleUI/CTEConsoleUI.iml" filepath="$PROJECT_DIR$/CTEConsoleUI/CTEConsoleUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CTEEngine/CTEEngine.iml" filepath="$PROJECT_DIR$/CTEEngine/CTEEngine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CTEMachine/CTEMachine.iml" filepath="$PROJECT_DIR$/CTEMachine/CTEMachine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CrackingTheEnigma.iml" filepath="$PROJECT_DIR$/CrackingTheEnigma.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CTEEngine:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CTEEngine_jar</output-path>
+    <root id="archive" name="CTEEngine.jar">
+      <element id="module-output" name="CTEEngine" />
+      <element id="module-output" name="CTEMachine" />
+      <element id="module-output" name="CrackingTheEnigma" />
+    </root>
+  </artifact>
+</component>

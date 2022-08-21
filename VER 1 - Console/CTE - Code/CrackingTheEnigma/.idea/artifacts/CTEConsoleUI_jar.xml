@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CTEConsoleUI:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CTEConsoleUI_jar</output-path>
+    <root id="archive" name="CTEConsoleUI.jar">
+      <element id="module-output" name="CTEConsoleUI" />
+      <element id="module-output" name="CTEEngine" />
+      <element id="module-output" name="CTEMachine" />
+      <element id="module-output" name="CrackingTheEnigma" />
+    </root>
+  </artifact>
+</component>

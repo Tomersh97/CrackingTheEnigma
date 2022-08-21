@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CTEMachine:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CTEMachine_jar</output-path>
+    <root id="archive" name="CTEMachine.jar">
+      <element id="module-output" name="CTEMachine" />
+    </root>
+  </artifact>
+</component>
